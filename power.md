@@ -1,7 +1,7 @@
 # Simulation Results
 
 Output values from the circuit simulation, listed by signal or device.
-
+Total power dissipation is = 253.1uV
 ## Results
 
 | Signal / Device | Value |
