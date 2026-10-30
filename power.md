@@ -1,6 +1,8 @@
 # Simulation Results
 
-Output values from the circuit simulation, listed by signal or device.
+Output values for DC POWER DISSIPATION AT ICMR+ 1.6V
+
+
 Total power dissipation is = 253.1uV
 ## Results
 
